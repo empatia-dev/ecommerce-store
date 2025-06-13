@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee Mug",
+    "description": "A beautiful ceramic mug, perfect for your morning coffee or tea.",
+    "price": 12.99,
+    "image_url": "/assets/mug-m.png"
+  },
+  {
+    "id": 2,
+    "name": "Notebook",
+    "description": "A minimalist hardcover notebook designed for your thoughts, sketches, or plans.",
+    "price": 9.99,
+    "image_url": "/assets/notebook-m.png"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "Sleek headphones with crisp sound and all-day comfort.",
+    "price": 49.99,
+    "image_url": "/assets/headphones-m.png"
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "description": "A stylish leather backpack with multiple compartments for daily use or travel.",
+    "price": 79.99,
+    "image_url": "/assets/backpack-m.png"
+  },
+  {
+    "id": 5,
+    "name": "Water Bottle",
+    "description": "A durable stainless steel water bottle to keep your drinks hot or cold.",
+    "price": 15.99,
+    "image_url": "/assets/water-bottle-m.png"
+  },
+  {
+    "id": 6,
+    "name": "Lamp",
+    "description": "Elegant and functional, this ceramic lamp blends classic design with modern sensibility.",
+    "price": 55.99,
+    "image_url": "/assets/cozy-lamp-m.png"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "description": "A powerful Bluetooth speaker delivering rich bass and crystal-clear highs.",
+    "price": 99.99,
+    "image_url": "/assets/speaker-m.png"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "description": "A bold blend of vintage inspiration and modern edge, delivering comfort and style.",
+    "price": 65.99,
+    "image_url": "/assets/sunglasses-m.png"
+  }
+]
